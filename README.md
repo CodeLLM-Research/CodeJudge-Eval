@@ -9,7 +9,7 @@ CodeJudge-Eval:  Can Large Language Models be Good Judges in Code Understanding?
 <h5 align="center">
 
 [![hf_data](https://img.shields.io/badge/🤗-Datasets-9C276A.svg)](https://huggingface.co/datasets/CodeResearch/CodeJudge-Eval)
-[![arXiv](https://img.shields.io/badge/Arxiv-???-AD1C18.svg?logo=arXiv)](???)
+[![arXiv](https://img.shields.io/badge/Arxiv-2408.10718-AD1C18.svg?logo=arXiv)](https://arxiv.org/abs/2408.10718)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/CodeLLM-Research/CodeJudge-Eval/LICENSE.txt) 
 
 </h5>
@@ -32,5 +32,13 @@ This work is still in progress. More details will be released in the coming mont
 
 If you find **CodeJudge-Eval** useful for your research and applications, please cite using this BibTeX:
 ```bibtex
-
+@misc{zhao2024codejudgeevallargelanguagemodels,
+      title={CodeJudge-Eval: Can Large Language Models be Good Judges in Code Understanding?}, 
+      author={Yuwei Zhao and Ziyang Luo and Yuchen Tian and Hongzhan Lin and Weixiang Yan and Annan Li and Jing Ma},
+      year={2024},
+      eprint={2408.10718},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2408.10718}, 
+}
 ```
