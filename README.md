@@ -16,7 +16,7 @@ CodeJudge-Eval:  Can Large Language Models be Good Judges in Code Understanding?
 
 ## Introduction
 
-Recent advancements in large language models (LLMs) have showcased impressive code generation capabilities, primarily evaluated through language-to-code benchmarks. However, these benchmarks may not fully capture a model's code understanding abilities. We introduce **CodeJudge-Eval (CJ-Eval)**, a novel benchmark designed to assess LLMs' code understanding abilities from the perspective of code judging rather than code generation. CJ-Eval challenges models to determine the correctness of provided code solutions, encompassing various error types and compilation issues. By leveraging a diverse set of problems and a fine-grained judging system, CJ-Eval addresses the limitations of traditional benchmarks, including the potential memorization of solutions. Evaluation of 12 well-known LLMs on CJ-Eval reveals that even state-of-the-art models struggle, highlighting the benchmark's ability to probe deeper into models' code understanding abilities.
+Recent advancements in large language models (LLMs) have showcased impressive code generation capabilities, primarily evaluated through language-to-code benchmarks. However, these benchmarks may not fully capture a model's code understanding abilities. We introduce **CodeJudge-Eval (CJ-Eval)**, a novel benchmark designed to assess LLMs' code understanding abilities from the perspective of code judging rather than code generation. **CJ-Eval** challenges models to determine the correctness of provided code solutions, encompassing various error types and compilation issues. By leveraging a diverse set of problems and a fine-grained judging system, **CJ-Eval** addresses the limitations of traditional benchmarks, including the potential memorization of solutions. Evaluation of 12 well-known LLMs on **CJ-Eval** reveals that even state-of-the-art models struggle, highlighting the benchmark's ability to probe deeper into models' code understanding abilities.
 
 ## Experiment Results
 
@@ -26,7 +26,7 @@ Recent advancements in large language models (LLMs) have showcased impressive co
 
 ## More Details
 
-This work is still in progress. More details will be released in the coming month.
+More details can be found in our [paper](https://arxiv.org/abs/2408.10718).
 
 ## 📑 Citation
 
