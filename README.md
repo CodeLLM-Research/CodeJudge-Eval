@@ -4,6 +4,7 @@
 
 <h3 align="center"><a href="https://arxiv.org/abs/2408.10718" style="color:#9C276A">
 CodeJudge-Eval:  Can Large Language Models be Good Judges in Code Understanding?</a></h3>
+<h5 align="center"> 🎉 Our paper has been accepted by the 31st International Conference on Computational Linguistics (<a href="https://coling2025.org/">COLING 25</a>). </h2>
 <h5 align="center"> If our project helps you, please give us a star ⭐ on GitHub to support us. 🙏🙏 </h2>
 
 <h5 align="center">
